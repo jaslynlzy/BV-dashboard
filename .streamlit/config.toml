@@ -1,0 +1,9 @@
+# Basic configuration
+[server]
+headless = true
+port = 8501
+
+# Theme configuration
+[theme]
+base="light"
+primaryColor="#0cafff"
